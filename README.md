@@ -5,7 +5,7 @@
 <h3> University Projects:</h3>
 
 - <b>Web Game Development Module</b>
-  - [Web Game using JavaScript, Three.js, Node.js](https://github.com/)
+  - [Web Game using JavaScript, Three.js, Node.js](https://github.com/Walian83/Web-Game)
 
 
 <h2>📺 Popular YouTube Videos</h2>
