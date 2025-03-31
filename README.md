@@ -11,7 +11,7 @@
   - [Mobile game created in Unity, using C# ](https://github.com/Walian83/Mobile-Game-Repo)
 
 - <b>Game Engine Architecture</b>
-  - [A basic written in C#, using Visual Studio and the SDL library ](https://github.com/Walian83/Game-Engine)
+  - [A basic written game engine in C#, using Visual Studio and the SDL library ](https://github.com/Walian83/Game-Engine)
 
  
 <!--
