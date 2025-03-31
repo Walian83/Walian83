@@ -4,7 +4,7 @@
 
 <h3> University Projects:</h3>
 
-- <b>JavaScript Web Game</b>
+- <b>Three.js Web Game</b>
   - [Web game using JavaScript, Three.js, Node.js](https://github.com/Walian83/Web-Game)
 
 - <b>Unity Mobile Game</b>
