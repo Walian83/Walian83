@@ -4,10 +4,13 @@
 
 <h3> University Projects:</h3>
 
-- <b>Web Game Development Module</b>
-  - [Web Game using JavaScript, Three.js, Node.js](https://github.com/Walian83/Web-Game)
+- <b>JavaScript Web Game</b>
+  - [Web game using JavaScript, Three.js, Node.js](https://github.com/Walian83/Web-Game)
 
+- <b>Unity Mobile Game</b>
+  - [Mobile game created in Unity, using C# ](https://github.com/Walian83/Mobile-Game-Repo)
 
+ 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
