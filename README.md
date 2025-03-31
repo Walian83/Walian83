@@ -8,10 +8,13 @@
   - [Web game using JavaScript, Three.js, Node.js](https://github.com/Walian83/Web-Game)
 
 - <b>Unity Mobile Game</b>
-  - [Mobile game created in Unity, using C# ](https://github.com/Walian83/Mobile-Game-Repo)
+  - [Mobile game created in Unity, written in C# ](https://github.com/Walian83/Mobile-Game-Repo)
 
 - <b>Game Engine Architecture</b>
-  - [A basic written game engine in C#, using Visual Studio and the SDL library ](https://github.com/Walian83/Game-Engine)
+  - [A basic game engine written in C++, using Visual Studio and the SDL library ](https://github.com/Walian83/Game-Engine)
+ 
+- <b>C++ Game</b>
+  - [A 2D game written in C++, using Visual Studio and the SDL library ](https://github.com/Walian83/Game-Engine)
 
  
 <!--
