@@ -14,7 +14,7 @@
   - [A basic game engine written in C++, using Visual Studio and the SDL library ](https://github.com/Walian83/Game-Engine)
  
 - <b>C++ Game</b>
-  - [A 2D game written in C++, using Visual Studio and the SDL library ](https://github.com/Walian83/Game-Engine)
+  - [A 2D game written in C++, using Visual Studio and the SDL library ](https://github.com/Walian83/Cpp-Game)
 
  
 <!--
