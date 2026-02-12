@@ -8,16 +8,27 @@
   - [Web game using JavaScript, Three.js, Node.js](https://github.com/Walian83/Web-Game)
 
 - <b>Unity Mobile Game</b>
-  - [Mobile game created in Unity, written in C# ](https://github.com/Walian83/Mobile-Game-Repo)
+  - [Mobile game created in Unity, written in C#](https://github.com/Walian83/Mobile-Game-Repo)
 
 - <b>Game Engine Architecture</b>
-  - [A basic game engine written in C++, using Visual Studio and the SDL library ](https://github.com/Walian83/Game-Engine)
+  - [A basic game engine written in C++, using Visual Studio and the SDL library](https://github.com/Walian83/Game-Engine)
  
 - <b>C++ Game</b>
-  - [A 2D game written in C++, using Visual Studio and the SDL library ](https://github.com/Walian83/Cpp-Game)
+  - [A 2D game written in C++, using Visual Studio and the SDL library](https://github.com/Walian83/Cpp-Game)
 
- 
 <!--
+<h3> Personal Projects:</h3>
+
+- <b>Personal Website Project</b>
+  - [A personal CV website, in progress](https://github.com/Walian83/Personal-Website)
+ 
+- <b>Flexbox Pricing Plan Project</b>
+  - [A simple pricing plan webpage that uses flexbox](https://github.com/Walian83/Pricing-Plan)
+ 
+- <b>Web Design Agency Project</b>
+  - [A basic, responsive webpage for a web design agendy](https://github.com/Walian83/Web-Design-Agency)
+ 
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
