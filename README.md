@@ -22,11 +22,11 @@
 - <b>Personal Website Project</b>
   - [A personal CV website, in progress](https://github.com/Walian83/Personal-Website)
  
-- <b>Flexbox Pricing Plan Project</b>
+- <b>Flexbox Pricing Plan Exercise</b>
   - [A simple pricing plan webpage that uses flexbox](https://github.com/Walian83/Pricing-Plan)
  
-- <b>Web Design Agency Project</b>
-  - [A basic, responsive webpage for a web design agendy](https://github.com/Walian83/Web-Design-Agency)
+- <b>Web Design Agency Exercise</b>
+  - [A basic, responsive webpage for a web design agency](https://github.com/Walian83/Web-Design-Agency)
  
 
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
