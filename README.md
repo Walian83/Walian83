@@ -16,12 +16,12 @@
 - <b>C++ Game</b>
   - [A 2D game written in C++, using Visual Studio and the SDL library](https://github.com/Walian83/Cpp-Game)
 
-<!--
+
 <h3> Personal Projects:</h3>
 
 - <b>Personal Website Project</b>
   - [A personal CV website, in progress](https://github.com/Walian83/Personal-Website)
- 
+ <!--
 - <b>Flexbox Pricing Plan Exercise</b>
   - [A simple pricing plan webpage that uses flexbox](https://github.com/Walian83/Pricing-Plan)
  
