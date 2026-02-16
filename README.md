@@ -29,7 +29,7 @@
   - [A basic, responsive webpage for a web design agency](https://github.com/Walian83/Web-Design-Agency)
  
 - <b>CSS Grid Exercise - Mondrian Project</b>
-  - [Practicing CSS grid](https://github.com/Walian83/CSS-Grid-Mondrian)
+  - [CSS grid practice](https://github.com/Walian83/CSS-Grid-Mondrian)
 
 
  <!--
